@@ -1,3 +1,4 @@
+使用uieb数据集
 train中包含400张pair image
 unlabel有400张无标签图像
 valid有90张pair image用于计算每代epoch的指标
