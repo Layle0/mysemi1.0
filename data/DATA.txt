@@ -1,0 +1,4 @@
+train中包含400张pair image
+unlabel有400张无标签图像
+valid有90张pair image用于计算每代epoch的指标
+test是uieb挑战60图，用于测试
